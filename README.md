@@ -6,7 +6,7 @@ Numerical implementation of the **Order Creator Mechanism (OCM)** for non-singul
 This repository provides the computational framework for the OCM, which identifies the $R_d$ interface (at $r \approx 3M$) as a physical, stress-energy stabilized boundary.
 
 ## Key Features
-* **Equilibrium Modeling**: Calculates the balance between Manifold Tension ($\eta_m$) and $\kappa$-flux energy density ($\rho_{\kappa}$)[span_1](end_span).
+* **Equilibrium Modeling**: Calculates the balance between Manifold Tension ($\eta_m$) and $\kappa$-flux energy density ($\rho_{\kappa}$).
 * **Spectral Cutoff**: Computes the radiative Bremsstrahlung cutoff frequency ($\nu_c$) at the phase-transition boundary.
 * **Geometric Resonance**: Models manifold standing waves responsible for large-scale structures like the 1.3 Gly Big Ring.
 
