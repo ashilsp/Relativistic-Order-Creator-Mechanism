@@ -14,7 +14,7 @@ This repository provides the computational framework for the OCM, which identifi
 * `ocm_model.py`: Calculations for the $R_d$ boundary.
 *  `ocm_model2.py`: Core calculations for the $R_d$ boundary and spectral cutoff.
 * `resonance_mapper.py`: Simulation of manifold harmonic resonances and filaments.
-* `plot_equilibrium.py`:Graphs showing  two lines intersecting exactly at the 3M mark.
-* `resonance_map.py`:This script models the harmonic standing waves mentioned in your supplementary material (the math that explains why we see 1.3 Gly structures like the Big Ring). It creates a "Heat Map" of resonance nodes.
+* `plot_equilibrium.py`: Graphs showing  two lines intersecting exactly at the 3M mark.
+* `resonance_map.py`: This script models the harmonic standing waves mentioned in your supplementary material (the math that explains why we see 1.3 Gly structures like the Big Ring). It creates a "Heat Map" of resonance nodes.
 ## Reference
 Based on the paper: *A Relativistic Order Creator Mechanism for Non-Singular Black Hole Interiors and the Mass-Energy Equivalence of the Dark Sector.*
