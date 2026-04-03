@@ -11,7 +11,8 @@ Numerical implementation of the **Order Creator Mechanism (OCM)** for non-singul
 * **[span_3](start_span)Geometric Resonance**: Models manifold standing waves responsible for large-scale structures like the 1.3 Gly Big Ring[span_3](end_span).
 
 ## Files
-* `ocm_model.py`: Core calculations for the $R_d$ boundary and spectral cutoff.
+* `ocm_model.py`: Calculations for the $R_d$ boundary.
+*  `ocm_model2.py`: Core calculations for the $R_d$ boundary and spectral cutoff.
 * `resonance_mapper.py`: Simulation of manifold harmonic resonances and filaments.
 
 ## Reference
