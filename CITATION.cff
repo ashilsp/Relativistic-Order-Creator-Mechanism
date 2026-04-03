@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software or the OCM numerical models, please cite it as below."
+authors:
+- family-names: "S."
+  given-names: "Ashil"
+title: "Relativistic-Order-Creator-Mechanism: Numerical Models for Non-Singular Black Hole Interiors"
+version: 1.0.0
+date-released: 2026-04-04
+url: "https://github.com/ashilsp/Relativistic-Order-Creator-Mechanism"
